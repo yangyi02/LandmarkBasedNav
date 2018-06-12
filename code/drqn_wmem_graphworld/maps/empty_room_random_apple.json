@@ -1,0 +1,40 @@
+{
+    "dimensions" : {
+        "height" : 5,
+        "width" : 5
+    },
+    
+    "items" : {
+        "goal" : {
+            "number" : 1,
+            "instances" : {
+                "apple_0": []
+            }
+        },
+
+        "block" : {
+            "number" : 0,
+            "instances" : {
+            }
+        },
+
+        "agent" : {
+            "number" : 1,
+            "instances" : {
+                "robot_0" : [0, 0]
+            }
+        },
+        
+        "dummy" : {
+            "number" : 0,
+            "instances" : {
+            }
+        },
+
+        "river" : {
+            "number" : 0,
+            "instances" : {
+            }
+        }
+    }
+}

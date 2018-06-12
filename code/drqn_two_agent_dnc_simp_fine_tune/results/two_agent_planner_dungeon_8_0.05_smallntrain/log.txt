@@ -1,0 +1,9 @@
+2017-09-21 23:46:19,829:INFO: Global step: 4060
+2017-09-21 23:46:19,829:INFO: Evaluating...
+2017-09-22 00:04:25,973:INFO: Average reward: 0.20 +/- 0.40
+2017-09-22 00:42:26,553:INFO: Global step: 8124
+2017-09-22 00:42:26,554:INFO: Evaluating...
+2017-09-22 00:57:41,564:INFO: Average reward: 0.01 +/- 0.48
+2017-09-22 01:35:32,822:INFO: Global step: 12134
+2017-09-22 01:35:32,824:INFO: Evaluating...
+2017-09-22 01:52:22,434:INFO: Average reward: -0.21 +/- 0.45

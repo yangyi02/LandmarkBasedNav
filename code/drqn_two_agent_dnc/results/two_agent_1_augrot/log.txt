@@ -1,0 +1,36 @@
+2017-09-06 17:17:55,926:INFO: Global step: 20060
+2017-09-06 17:17:55,927:INFO: Evaluating...
+2017-09-06 17:18:43,013:INFO: Average reward: -0.06 +/- 0.69
+2017-09-06 17:18:43,013:INFO: Success Rate: 0.71
+2017-09-06 17:39:40,914:INFO: Global step: 40166
+2017-09-06 17:39:40,915:INFO: Evaluating...
+2017-09-06 17:40:31,109:INFO: Average reward: 0.01 +/- 0.73
+2017-09-06 17:40:31,109:INFO: Success Rate: 0.67
+2017-09-06 18:01:02,388:INFO: Global step: 60177
+2017-09-06 18:01:02,390:INFO: Evaluating...
+2017-09-06 18:01:35,230:INFO: Average reward: 0.73 +/- 0.74
+2017-09-06 18:01:35,230:INFO: Success Rate: 0.65
+2017-09-06 18:19:06,237:INFO: Global step: 80182
+2017-09-06 18:19:06,238:INFO: Evaluating...
+2017-09-06 18:19:49,827:INFO: Average reward: 0.14 +/- 0.88
+2017-09-06 18:19:49,828:INFO: Success Rate: 0.77
+2017-09-06 18:36:57,712:INFO: Global step: 100218
+2017-09-06 18:36:57,713:INFO: Evaluating...
+2017-09-06 18:37:43,607:INFO: Average reward: 0.64 +/- 0.96
+2017-09-06 18:37:43,607:INFO: Success Rate: 0.87
+2017-09-06 18:56:05,840:INFO: Global step: 120236
+2017-09-06 18:56:05,841:INFO: Evaluating...
+2017-09-06 18:56:46,946:INFO: Average reward: 1.24 +/- 0.55
+2017-09-06 18:56:46,947:INFO: Success Rate: 0.90
+2017-09-06 19:16:44,579:INFO: Global step: 140242
+2017-09-06 19:16:44,579:INFO: Evaluating...
+2017-09-06 19:17:27,905:INFO: Average reward: 1.59 +/- 0.71
+2017-09-06 19:17:27,905:INFO: Success Rate: 0.83
+2017-09-06 19:36:41,266:INFO: Global step: 160249
+2017-09-06 19:36:41,266:INFO: Evaluating...
+2017-09-06 20:15:16,290:INFO: Average reward: 1.94 +/- 0.63
+2017-09-06 20:15:16,290:INFO: Success Rate: 0.95
+2017-09-06 20:33:47,762:INFO: Global step: 180257
+2017-09-06 20:33:47,762:INFO: Evaluating...
+2017-09-06 20:34:24,944:INFO: Average reward: 2.17 +/- 0.71
+2017-09-06 20:34:24,944:INFO: Success Rate: 0.92

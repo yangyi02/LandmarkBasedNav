@@ -1,0 +1,17 @@
+Learning Maps for Indoor Mobile Robot Navigation
+Visual Navigation for Mobile Robots: a Survey
+Pointer Networks
+Value Iteration Networks
+A Deep Hierarchical Approach to Lifelong Learning in Minecraft
+Strategic Attentive Writer for Learning Macro-Actions
+The Option-Critic Architecture
+Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning
+Options Discovery with Budgeted Reinforcement Learning
+Cognitive Mapping and Planning for Visual Navigation
+Neural Map: Structured Memory for Deep Reinforcement Learning
+FeUdal Networks for Hierarchical Reinforcement Learning
+Curiosity-driven Exploration by Self-supervised Prediction
+Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning
+Intra-Option Learning about Temporally Abstract Actions
+Control of Memory, Active Perception, and Action in Minecraft
+Learning your way around town: How virtual taxicab drivers learn to use both layout and landmark information

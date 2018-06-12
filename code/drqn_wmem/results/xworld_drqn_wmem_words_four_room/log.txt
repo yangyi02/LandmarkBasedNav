@@ -1,0 +1,1 @@
+2017-08-16 11:37:33,056:INFO: Restoring parameters from results/xworld_drqn_wmem_words_four_room/model.weights/model-540000

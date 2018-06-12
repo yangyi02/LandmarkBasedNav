@@ -1,0 +1,865 @@
+2017-08-30 21:21:49,431:INFO: Global step: 20094
+2017-08-30 21:21:49,432:INFO: Evaluating...
+2017-08-30 21:23:37,178:INFO: Average reward: -2.57 +/- 0.15
+2017-08-30 21:31:28,413:INFO: Global step: 40122
+2017-08-30 21:31:28,414:INFO: Evaluating...
+2017-08-30 21:32:47,321:INFO: Average reward: -2.32 +/- 0.15
+2017-08-30 21:40:24,679:INFO: Global step: 60313
+2017-08-30 21:40:24,679:INFO: Evaluating...
+2017-08-30 21:41:53,224:INFO: Average reward: -1.88 +/- 0.13
+2017-08-30 21:49:59,189:INFO: Global step: 80329
+2017-08-30 21:49:59,190:INFO: Evaluating...
+2017-08-30 21:51:18,263:INFO: Average reward: -2.00 +/- 0.14
+2017-08-30 21:59:33,530:INFO: Global step: 100381
+2017-08-30 21:59:33,532:INFO: Evaluating...
+2017-08-30 22:01:05,170:INFO: Average reward: -1.84 +/- 0.14
+2017-08-30 22:09:28,926:INFO: Global step: 120554
+2017-08-30 22:09:28,927:INFO: Evaluating...
+2017-08-30 22:10:29,388:INFO: Average reward: -1.32 +/- 0.13
+2017-08-30 22:18:05,796:INFO: Global step: 140592
+2017-08-30 22:18:05,797:INFO: Evaluating...
+2017-08-30 22:19:09,310:INFO: Average reward: -1.55 +/- 0.13
+2017-08-30 22:26:47,877:INFO: Global step: 160623
+2017-08-30 22:26:47,878:INFO: Evaluating...
+2017-08-30 22:27:56,097:INFO: Average reward: -1.32 +/- 0.13
+2017-08-30 22:35:22,221:INFO: Global step: 180630
+2017-08-30 22:35:22,222:INFO: Evaluating...
+2017-08-30 22:36:11,451:INFO: Average reward: -1.35 +/- 0.13
+2017-08-30 22:43:34,817:INFO: Global step: 200671
+2017-08-30 22:43:34,818:INFO: Evaluating...
+2017-08-30 22:44:26,500:INFO: Average reward: -1.30 +/- 0.12
+2017-08-30 22:51:42,528:INFO: Global step: 220712
+2017-08-30 22:51:42,529:INFO: Evaluating...
+2017-08-30 22:52:43,800:INFO: Average reward: -1.30 +/- 0.12
+2017-08-30 23:00:00,467:INFO: Global step: 240713
+2017-08-30 23:00:00,468:INFO: Evaluating...
+2017-08-30 23:00:44,107:INFO: Average reward: -0.91 +/- 0.11
+2017-08-30 23:08:06,865:INFO: Global step: 260754
+2017-08-30 23:08:06,867:INFO: Evaluating...
+2017-08-30 23:08:58,715:INFO: Average reward: -0.88 +/- 0.12
+2017-08-30 23:17:20,432:INFO: Global step: 280775
+2017-08-30 23:17:20,433:INFO: Evaluating...
+2017-08-30 23:18:24,171:INFO: Average reward: -1.23 +/- 0.12
+2017-08-30 23:26:46,944:INFO: Global step: 300953
+2017-08-30 23:26:46,945:INFO: Evaluating...
+2017-08-30 23:27:44,513:INFO: Average reward: -1.00 +/- 0.11
+2017-08-30 23:36:15,135:INFO: Global step: 321145
+2017-08-30 23:36:15,136:INFO: Evaluating...
+2017-08-30 23:37:19,260:INFO: Average reward: -1.10 +/- 0.12
+2017-08-30 23:45:18,730:INFO: Global step: 341146
+2017-08-30 23:45:18,731:INFO: Evaluating...
+2017-08-30 23:46:17,510:INFO: Average reward: -0.98 +/- 0.11
+2017-08-30 23:54:10,762:INFO: Global step: 361249
+2017-08-30 23:54:10,763:INFO: Evaluating...
+2017-08-30 23:55:01,134:INFO: Average reward: -0.94 +/- 0.11
+2017-08-31 00:02:48,650:INFO: Global step: 381258
+2017-08-31 00:02:48,651:INFO: Evaluating...
+2017-08-31 00:03:49,837:INFO: Average reward: -1.36 +/- 0.14
+2017-08-31 00:12:10,680:INFO: Global step: 401401
+2017-08-31 00:12:10,681:INFO: Evaluating...
+2017-08-31 00:12:59,727:INFO: Average reward: -0.67 +/- 0.10
+2017-08-31 00:21:18,547:INFO: Global step: 421417
+2017-08-31 00:21:18,548:INFO: Evaluating...
+2017-08-31 00:22:24,102:INFO: Average reward: -1.08 +/- 0.12
+2017-08-31 00:30:45,380:INFO: Global step: 441456
+2017-08-31 00:30:45,381:INFO: Evaluating...
+2017-08-31 00:31:38,184:INFO: Average reward: -0.85 +/- 0.11
+2017-08-31 00:39:58,377:INFO: Global step: 461585
+2017-08-31 00:39:58,378:INFO: Evaluating...
+2017-08-31 00:41:05,453:INFO: Average reward: -1.11 +/- 0.12
+2017-08-31 00:49:34,512:INFO: Global step: 481665
+2017-08-31 00:49:34,513:INFO: Evaluating...
+2017-08-31 00:50:27,923:INFO: Average reward: -1.05 +/- 0.11
+2017-08-31 00:58:43,991:INFO: Global step: 501743
+2017-08-31 00:58:43,992:INFO: Evaluating...
+2017-08-31 00:59:34,834:INFO: Average reward: -1.20 +/- 0.12
+2017-08-31 01:06:53,141:INFO: Global step: 521747
+2017-08-31 01:06:53,142:INFO: Evaluating...
+2017-08-31 01:07:41,227:INFO: Average reward: -1.01 +/- 0.11
+2017-08-31 01:14:40,317:INFO: Global step: 541763
+2017-08-31 01:14:40,317:INFO: Evaluating...
+2017-08-31 01:15:25,447:INFO: Average reward: -0.91 +/- 0.10
+2017-08-31 01:22:33,703:INFO: Global step: 561764
+2017-08-31 01:22:33,703:INFO: Evaluating...
+2017-08-31 01:23:16,228:INFO: Average reward: -0.81 +/- 0.10
+2017-08-31 01:30:11,437:INFO: Global step: 581782
+2017-08-31 01:30:11,438:INFO: Evaluating...
+2017-08-31 01:30:57,194:INFO: Average reward: -0.91 +/- 0.10
+2017-08-31 01:38:11,826:INFO: Global step: 601860
+2017-08-31 01:38:11,827:INFO: Evaluating...
+2017-08-31 01:39:12,674:INFO: Average reward: -0.78 +/- 0.11
+2017-08-31 01:47:26,740:INFO: Global step: 621947
+2017-08-31 01:47:26,741:INFO: Evaluating...
+2017-08-31 01:48:20,610:INFO: Average reward: -1.12 +/- 0.11
+2017-08-31 01:56:33,506:INFO: Global step: 642002
+2017-08-31 01:56:33,506:INFO: Evaluating...
+2017-08-31 01:57:27,343:INFO: Average reward: -0.93 +/- 0.11
+2017-08-31 02:05:40,795:INFO: Global step: 662062
+2017-08-31 02:05:40,796:INFO: Evaluating...
+2017-08-31 02:06:35,598:INFO: Average reward: -0.93 +/- 0.11
+2017-08-31 02:14:33,727:INFO: Global step: 682072
+2017-08-31 02:14:33,729:INFO: Evaluating...
+2017-08-31 02:15:33,811:INFO: Average reward: -0.76 +/- 0.10
+2017-08-31 02:23:44,085:INFO: Global step: 702073
+2017-08-31 02:23:44,087:INFO: Evaluating...
+2017-08-31 02:24:40,370:INFO: Average reward: -0.93 +/- 0.11
+2017-08-31 02:32:49,737:INFO: Global step: 722090
+2017-08-31 02:32:49,738:INFO: Evaluating...
+2017-08-31 02:33:43,049:INFO: Average reward: -0.88 +/- 0.11
+2017-08-31 02:41:44,613:INFO: Global step: 742121
+2017-08-31 02:41:44,613:INFO: Evaluating...
+2017-08-31 02:42:40,067:INFO: Average reward: -0.59 +/- 0.09
+2017-08-31 02:50:50,032:INFO: Global step: 762130
+2017-08-31 02:50:50,033:INFO: Evaluating...
+2017-08-31 02:51:47,130:INFO: Average reward: -0.80 +/- 0.10
+2017-08-31 03:00:05,060:INFO: Global step: 782204
+2017-08-31 03:00:05,062:INFO: Evaluating...
+2017-08-31 03:01:04,805:INFO: Average reward: -0.88 +/- 0.11
+2017-08-31 03:09:28,618:INFO: Global step: 802354
+2017-08-31 03:09:28,620:INFO: Evaluating...
+2017-08-31 03:10:15,448:INFO: Average reward: -0.65 +/- 0.10
+2017-08-31 03:18:18,796:INFO: Global step: 822502
+2017-08-31 03:18:18,797:INFO: Evaluating...
+2017-08-31 03:19:12,579:INFO: Average reward: -0.91 +/- 0.11
+2017-08-31 03:27:22,109:INFO: Global step: 842525
+2017-08-31 03:27:22,110:INFO: Evaluating...
+2017-08-31 03:28:13,929:INFO: Average reward: -0.88 +/- 0.11
+2017-08-31 03:36:33,617:INFO: Global step: 862651
+2017-08-31 03:36:33,618:INFO: Evaluating...
+2017-08-31 03:37:39,699:INFO: Average reward: -0.88 +/- 0.10
+2017-08-31 03:46:01,547:INFO: Global step: 882793
+2017-08-31 03:46:01,548:INFO: Evaluating...
+2017-08-31 03:46:56,454:INFO: Average reward: -0.90 +/- 0.10
+2017-08-31 03:55:07,939:INFO: Global step: 902940
+2017-08-31 03:55:07,941:INFO: Evaluating...
+2017-08-31 03:56:13,904:INFO: Average reward: -1.05 +/- 0.11
+2017-08-31 04:04:32,733:INFO: Global step: 922997
+2017-08-31 04:04:32,733:INFO: Evaluating...
+2017-08-31 04:05:15,653:INFO: Average reward: -0.64 +/- 0.10
+2017-08-31 04:13:36,989:INFO: Global step: 943046
+2017-08-31 04:13:36,992:INFO: Evaluating...
+2017-08-31 04:14:25,946:INFO: Average reward: -0.71 +/- 0.10
+2017-08-31 04:22:45,742:INFO: Global step: 963134
+2017-08-31 04:22:45,743:INFO: Evaluating...
+2017-08-31 04:23:40,320:INFO: Average reward: -0.89 +/- 0.11
+2017-08-31 04:31:57,180:INFO: Global step: 983185
+2017-08-31 04:31:57,181:INFO: Evaluating...
+2017-08-31 04:32:45,861:INFO: Average reward: -0.58 +/- 0.09
+2017-08-31 04:40:59,029:INFO: Global step: 1003189
+2017-08-31 04:40:59,030:INFO: Evaluating...
+2017-08-31 04:41:47,749:INFO: Average reward: -0.62 +/- 0.10
+2017-08-31 04:50:04,309:INFO: Global step: 1023246
+2017-08-31 04:50:04,311:INFO: Evaluating...
+2017-08-31 04:51:00,107:INFO: Average reward: -1.01 +/- 0.11
+2017-08-31 04:59:09,389:INFO: Global step: 1043325
+2017-08-31 04:59:09,390:INFO: Evaluating...
+2017-08-31 04:59:59,432:INFO: Average reward: -0.74 +/- 0.10
+2017-08-31 05:08:18,893:INFO: Global step: 1063337
+2017-08-31 05:08:18,894:INFO: Evaluating...
+2017-08-31 05:09:04,370:INFO: Average reward: -0.72 +/- 0.10
+2017-08-31 05:17:26,674:INFO: Global step: 1083368
+2017-08-31 05:17:26,674:INFO: Evaluating...
+2017-08-31 05:18:21,120:INFO: Average reward: -0.65 +/- 0.10
+2017-08-31 05:26:34,883:INFO: Global step: 1103508
+2017-08-31 05:26:34,884:INFO: Evaluating...
+2017-08-31 05:27:37,779:INFO: Average reward: -0.86 +/- 0.11
+2017-08-31 05:35:49,850:INFO: Global step: 1123517
+2017-08-31 05:35:49,851:INFO: Evaluating...
+2017-08-31 05:36:39,869:INFO: Average reward: -0.71 +/- 0.10
+2017-08-31 05:44:46,541:INFO: Global step: 1143525
+2017-08-31 05:44:46,543:INFO: Evaluating...
+2017-08-31 05:45:37,758:INFO: Average reward: -0.71 +/- 0.10
+2017-08-31 05:53:53,101:INFO: Global step: 1163611
+2017-08-31 05:53:53,103:INFO: Evaluating...
+2017-08-31 05:54:41,779:INFO: Average reward: -0.62 +/- 0.10
+2017-08-31 06:02:56,575:INFO: Global step: 1183750
+2017-08-31 06:02:56,576:INFO: Evaluating...
+2017-08-31 06:03:55,336:INFO: Average reward: -0.67 +/- 0.10
+2017-08-31 06:12:15,471:INFO: Global step: 1203861
+2017-08-31 06:12:15,472:INFO: Evaluating...
+2017-08-31 06:12:58,472:INFO: Average reward: -0.58 +/- 0.10
+2017-08-31 06:21:21,766:INFO: Global step: 1223915
+2017-08-31 06:21:21,767:INFO: Evaluating...
+2017-08-31 06:22:09,943:INFO: Average reward: -0.77 +/- 0.10
+2017-08-31 06:30:23,983:INFO: Global step: 1244011
+2017-08-31 06:30:23,983:INFO: Evaluating...
+2017-08-31 06:31:25,381:INFO: Average reward: -0.75 +/- 0.10
+2017-08-31 06:39:37,975:INFO: Global step: 1264054
+2017-08-31 06:39:37,976:INFO: Evaluating...
+2017-08-31 06:40:37,819:INFO: Average reward: -0.71 +/- 0.10
+2017-08-31 06:48:56,532:INFO: Global step: 1284129
+2017-08-31 06:48:56,533:INFO: Evaluating...
+2017-08-31 06:49:46,480:INFO: Average reward: -0.74 +/- 0.10
+2017-08-31 06:57:49,937:INFO: Global step: 1304135
+2017-08-31 06:57:49,937:INFO: Evaluating...
+2017-08-31 06:58:40,325:INFO: Average reward: -0.74 +/- 0.10
+2017-08-31 07:06:53,448:INFO: Global step: 1324196
+2017-08-31 07:06:53,448:INFO: Evaluating...
+2017-08-31 07:07:55,707:INFO: Average reward: -0.71 +/- 0.09
+2017-08-31 07:16:16,964:INFO: Global step: 1344389
+2017-08-31 07:16:16,964:INFO: Evaluating...
+2017-08-31 07:17:14,938:INFO: Average reward: -0.75 +/- 0.11
+2017-08-31 07:25:30,536:INFO: Global step: 1364426
+2017-08-31 07:25:30,536:INFO: Evaluating...
+2017-08-31 07:26:19,468:INFO: Average reward: -0.58 +/- 0.09
+2017-08-31 07:34:34,759:INFO: Global step: 1384437
+2017-08-31 07:34:34,761:INFO: Evaluating...
+2017-08-31 07:35:27,803:INFO: Average reward: -0.81 +/- 0.11
+2017-08-31 07:43:40,494:INFO: Global step: 1404557
+2017-08-31 07:43:40,495:INFO: Evaluating...
+2017-08-31 07:44:26,667:INFO: Average reward: -0.54 +/- 0.09
+2017-08-31 07:52:40,181:INFO: Global step: 1424664
+2017-08-31 07:52:40,182:INFO: Evaluating...
+2017-08-31 07:53:36,258:INFO: Average reward: -0.58 +/- 0.09
+2017-08-31 08:01:52,768:INFO: Global step: 1444672
+2017-08-31 08:01:52,770:INFO: Evaluating...
+2017-08-31 08:02:49,427:INFO: Average reward: -0.65 +/- 0.10
+2017-08-31 08:11:01,239:INFO: Global step: 1464724
+2017-08-31 08:11:01,239:INFO: Evaluating...
+2017-08-31 08:11:47,776:INFO: Average reward: -0.51 +/- 0.09
+2017-08-31 08:20:01,642:INFO: Global step: 1484898
+2017-08-31 08:20:01,643:INFO: Evaluating...
+2017-08-31 08:20:46,127:INFO: Average reward: -0.43 +/- 0.09
+2017-08-31 08:29:04,962:INFO: Global step: 1504960
+2017-08-31 08:29:04,963:INFO: Evaluating...
+2017-08-31 08:29:44,024:INFO: Average reward: -0.67 +/- 0.10
+2017-08-31 08:37:29,625:INFO: Global step: 1525055
+2017-08-31 08:37:29,626:INFO: Evaluating...
+2017-08-31 08:38:10,718:INFO: Average reward: -0.50 +/- 0.09
+2017-08-31 08:45:31,674:INFO: Global step: 1545071
+2017-08-31 08:45:31,676:INFO: Evaluating...
+2017-08-31 08:46:09,994:INFO: Average reward: -0.47 +/- 0.09
+2017-08-31 08:53:20,201:INFO: Global step: 1565098
+2017-08-31 08:53:20,202:INFO: Evaluating...
+2017-08-31 08:54:08,082:INFO: Average reward: -0.60 +/- 0.10
+2017-08-31 09:01:28,621:INFO: Global step: 1585117
+2017-08-31 09:01:28,621:INFO: Evaluating...
+2017-08-31 09:02:23,748:INFO: Average reward: -0.43 +/- 0.08
+2017-08-31 09:10:41,016:INFO: Global step: 1605150
+2017-08-31 09:10:41,017:INFO: Evaluating...
+2017-08-31 09:11:36,344:INFO: Average reward: -0.56 +/- 0.09
+2017-08-31 11:36:39,888:INFO: Global step: 1625161
+2017-08-31 11:36:39,889:INFO: Evaluating...
+2017-08-31 11:37:31,483:INFO: Average reward: -0.56 +/- 0.10
+2017-08-31 11:45:47,448:INFO: Global step: 1645273
+2017-08-31 11:45:47,449:INFO: Evaluating...
+2017-08-31 11:46:39,764:INFO: Average reward: -0.74 +/- 0.10
+2017-08-31 11:54:43,594:INFO: Global step: 1665408
+2017-08-31 11:54:43,595:INFO: Evaluating...
+2017-08-31 11:55:30,583:INFO: Average reward: -0.70 +/- 0.10
+2017-08-31 12:03:33,965:INFO: Global step: 1685522
+2017-08-31 12:03:33,966:INFO: Evaluating...
+2017-08-31 12:04:15,571:INFO: Average reward: -0.68 +/- 0.10
+2017-08-31 12:11:40,745:INFO: Global step: 1705525
+2017-08-31 12:11:40,747:INFO: Evaluating...
+2017-08-31 12:12:19,567:INFO: Average reward: -0.50 +/- 0.09
+2017-08-31 12:20:02,276:INFO: Global step: 1725656
+2017-08-31 12:20:02,277:INFO: Evaluating...
+2017-08-31 12:20:49,216:INFO: Average reward: -0.72 +/- 0.10
+2017-08-31 12:28:28,265:INFO: Global step: 1745837
+2017-08-31 12:28:28,266:INFO: Evaluating...
+2017-08-31 12:29:07,093:INFO: Average reward: -0.53 +/- 0.09
+2017-08-31 12:36:28,443:INFO: Global step: 1765849
+2017-08-31 12:36:28,445:INFO: Evaluating...
+2017-08-31 12:37:06,790:INFO: Average reward: -0.53 +/- 0.09
+2017-08-31 12:44:58,245:INFO: Global step: 1785986
+2017-08-31 12:44:58,249:INFO: Evaluating...
+2017-08-31 12:46:00,918:INFO: Average reward: -0.53 +/- 0.09
+2017-08-31 12:55:56,132:INFO: Global step: 1806109
+2017-08-31 12:55:56,135:INFO: Evaluating...
+2017-08-31 12:56:31,575:INFO: Average reward: -0.33 +/- 0.08
+2017-08-31 13:04:13,319:INFO: Global step: 1826162
+2017-08-31 13:04:13,320:INFO: Evaluating...
+2017-08-31 13:04:48,063:INFO: Average reward: -0.49 +/- 0.09
+2017-08-31 13:12:15,223:INFO: Global step: 1846177
+2017-08-31 13:12:15,224:INFO: Evaluating...
+2017-08-31 13:13:01,204:INFO: Average reward: -0.75 +/- 0.10
+2017-08-31 13:20:11,164:INFO: Global step: 1866187
+2017-08-31 13:20:11,168:INFO: Evaluating...
+2017-08-31 13:20:49,161:INFO: Average reward: -0.53 +/- 0.09
+2017-08-31 13:28:01,123:INFO: Global step: 1886201
+2017-08-31 13:28:01,124:INFO: Evaluating...
+2017-08-31 13:28:38,964:INFO: Average reward: -0.54 +/- 0.09
+2017-08-31 13:37:01,974:INFO: Global step: 1906204
+2017-08-31 13:37:01,975:INFO: Evaluating...
+2017-08-31 13:37:44,963:INFO: Average reward: -0.72 +/- 0.10
+2017-08-31 13:45:18,702:INFO: Global step: 1926218
+2017-08-31 13:45:18,703:INFO: Evaluating...
+2017-08-31 13:46:01,764:INFO: Average reward: -0.70 +/- 0.10
+2017-08-31 13:53:24,533:INFO: Global step: 1946311
+2017-08-31 13:53:24,534:INFO: Evaluating...
+2017-08-31 13:54:04,966:INFO: Average reward: -0.55 +/- 0.09
+2017-08-31 14:01:48,408:INFO: Global step: 1966405
+2017-08-31 14:01:48,409:INFO: Evaluating...
+2017-08-31 14:02:28,803:INFO: Average reward: -0.59 +/- 0.09
+2017-08-31 14:09:55,686:INFO: Global step: 1986410
+2017-08-31 14:09:55,688:INFO: Evaluating...
+2017-08-31 14:10:32,061:INFO: Average reward: -0.49 +/- 0.08
+2017-08-31 14:15:48,222:INFO: - Training done.
+2017-08-31 14:15:50,471:INFO: Evaluating...
+2017-08-31 14:16:26,504:INFO: Average reward: -0.52 +/- 0.09
+2017-08-31 16:25:23,556:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1806000
+2017-08-31 16:25:55,540:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:25:55,824:INFO: Evaluating...
+2017-08-31 16:26:27,954:INFO: Average reward: -0.52 +/- 0.09
+2017-08-31 16:30:19,449:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:30:19,683:INFO: Evaluating...
+2017-08-31 16:31:19,363:INFO: Average reward: -0.91 +/- 0.11
+2017-08-31 16:31:57,657:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:31:57,891:INFO: Evaluating...
+2017-08-31 16:39:41,673:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:39:41,903:INFO: Evaluating...
+2017-08-31 16:41:27,240:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:41:27,465:INFO: Evaluating...
+2017-08-31 16:41:59,677:INFO: Average reward: -0.67 +/- 0.10
+2017-08-31 16:42:36,776:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-08-31 16:42:36,999:INFO: Evaluating...
+2017-09-01 14:20:29,892:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 14:21:19,531:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 14:21:19,769:INFO: Evaluating...
+2017-09-01 14:21:53,704:INFO: Average reward: -0.60 +/- 0.09
+2017-09-01 14:23:55,685:INFO: Evaluating...
+2017-09-01 14:23:55,685:INFO: Evaluating...
+2017-09-01 14:25:40,481:INFO: Average reward: -7.27 +/- 0.17
+2017-09-01 14:25:40,481:INFO: Average reward: -7.27 +/- 0.17
+2017-09-01 14:33:24,892:INFO: Evaluating...
+2017-09-01 14:33:55,567:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 14:33:55,856:INFO: Evaluating...
+2017-09-01 14:35:20,123:INFO: Evaluating...
+2017-09-01 14:35:20,123:INFO: Evaluating...
+2017-09-01 14:36:57,487:INFO: Average reward: -4.84 +/- 0.13
+2017-09-01 14:36:57,487:INFO: Average reward: -4.84 +/- 0.13
+2017-09-01 14:37:00,521:INFO: Evaluating...
+2017-09-01 14:37:00,521:INFO: Evaluating...
+2017-09-01 14:38:49,055:INFO: Average reward: -4.59 +/- 0.07
+2017-09-01 14:38:49,055:INFO: Average reward: -4.59 +/- 0.07
+2017-09-01 14:40:54,019:INFO: Evaluating...
+2017-09-01 14:40:54,019:INFO: Evaluating...
+2017-09-01 14:42:39,834:INFO: Average reward: -6.69 +/- 0.16
+2017-09-01 14:42:39,834:INFO: Average reward: -6.69 +/- 0.16
+2017-09-01 14:42:43,329:INFO: Evaluating...
+2017-09-01 14:42:43,329:INFO: Evaluating...
+2017-09-01 14:43:46,152:INFO: Evaluating...
+2017-09-01 14:43:46,152:INFO: Evaluating...
+2017-09-01 14:44:42,010:INFO: Evaluating...
+2017-09-01 14:44:42,010:INFO: Evaluating...
+2017-09-01 14:54:35,430:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 14:54:35,430:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 14:54:35,676:INFO: Evaluating...
+2017-09-01 14:54:35,676:INFO: Evaluating...
+2017-09-01 14:55:17,316:INFO: Average reward: -0.66 +/- 0.09
+2017-09-01 14:55:17,316:INFO: Average reward: -0.66 +/- 0.09
+2017-09-01 14:55:20,427:INFO: Evaluating...
+2017-09-01 14:55:20,427:INFO: Evaluating...
+2017-09-01 14:57:10,703:INFO: Average reward: -7.83 +/- 0.15
+2017-09-01 14:57:10,703:INFO: Average reward: -7.83 +/- 0.15
+2017-09-01 15:30:25,388:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-01 15:30:25,630:INFO: Evaluating...
+2017-09-01 15:31:00,641:INFO: Average reward: -0.68 +/- 0.09
+2017-09-04 16:25:37,937:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:31:01,965:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:32:20,257:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:34:59,748:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:35:43,495:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:37:27,054:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:39:16,211:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:42:51,239:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:47:48,186:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 16:50:31,602:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:12:20,598:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:13:13,688:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:15:27,145:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:25:04,488:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:28:35,920:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 17:35:47,049:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:11:07,976:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:12:50,898:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:25:23,920:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:32:44,076:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:39:32,046:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:45:11,734:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:52:09,407:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:52:14,379:INFO: Evaluating...
+2017-09-04 19:57:17,728:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 19:57:22,382:INFO: Evaluating...
+2017-09-04 19:59:55,883:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 20:01:49,432:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 20:04:00,950:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 20:11:22,456:INFO: Global step: 20037
+2017-09-04 20:11:22,456:INFO: Evaluating...
+2017-09-04 20:11:38,321:INFO: Average reward: -0.46 +/- 0.43
+2017-09-04 20:18:58,396:INFO: Global step: 40113
+2017-09-04 20:18:58,396:INFO: Evaluating...
+2017-09-04 20:19:23,826:INFO: Average reward: -4.39 +/- 0.68
+2017-09-04 20:27:09,758:INFO: Global step: 60260
+2017-09-04 20:27:09,759:INFO: Evaluating...
+2017-09-04 20:27:38,282:INFO: Average reward: -3.88 +/- 0.96
+2017-09-04 20:35:52,214:INFO: Global step: 80431
+2017-09-04 20:35:52,215:INFO: Evaluating...
+2017-09-04 20:36:19,254:INFO: Average reward: -3.44 +/- 0.61
+2017-09-04 20:44:30,164:INFO: Global step: 100511
+2017-09-04 20:44:30,164:INFO: Evaluating...
+2017-09-04 20:45:00,743:INFO: Average reward: -4.13 +/- 0.97
+2017-09-04 20:53:07,145:INFO: Global step: 120621
+2017-09-04 20:53:07,146:INFO: Evaluating...
+2017-09-04 20:53:34,383:INFO: Average reward: -3.44 +/- 0.78
+2017-09-04 21:01:43,201:INFO: Global step: 140665
+2017-09-04 21:01:43,202:INFO: Evaluating...
+2017-09-04 21:02:07,481:INFO: Average reward: -2.20 +/- 0.49
+2017-09-04 21:10:22,317:INFO: Global step: 160829
+2017-09-04 21:10:22,318:INFO: Evaluating...
+2017-09-04 21:10:45,159:INFO: Average reward: -2.71 +/- 0.69
+2017-09-04 21:18:49,241:INFO: Global step: 180900
+2017-09-04 21:18:49,241:INFO: Evaluating...
+2017-09-04 21:19:12,224:INFO: Average reward: -4.08 +/- 0.72
+2017-09-04 21:27:15,552:INFO: Global step: 201028
+2017-09-04 21:27:15,553:INFO: Evaluating...
+2017-09-04 21:27:38,948:INFO: Average reward: -2.29 +/- 0.50
+2017-09-04 21:32:56,038:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 21:33:00,699:INFO: Restoring parameters from results/two_agent_0/model.weights/model-200000
+2017-09-04 21:33:00,950:INFO: Evaluating...
+2017-09-04 21:41:23,436:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 22:02:06,800:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 22:33:49,017:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 22:41:33,403:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 23:07:41,603:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 23:25:30,891:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 23:30:34,324:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 23:33:08,399:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-04 23:47:56,302:INFO: Global step: 20071
+2017-09-04 23:47:56,302:INFO: Evaluating...
+2017-09-04 23:48:26,543:INFO: Average reward: 0.15 +/- 0.64
+2017-09-05 00:03:48,177:INFO: Global step: 40082
+2017-09-05 00:03:48,178:INFO: Evaluating...
+2017-09-05 00:04:26,160:INFO: Average reward: -0.02 +/- 0.89
+2017-09-05 00:19:20,955:INFO: Global step: 60161
+2017-09-05 00:19:20,956:INFO: Evaluating...
+2017-09-05 00:20:01,795:INFO: Average reward: 0.86 +/- 0.72
+2017-09-05 00:35:58,468:INFO: Global step: 80173
+2017-09-05 00:35:58,470:INFO: Evaluating...
+2017-09-05 00:36:29,821:INFO: Average reward: 1.53 +/- 0.63
+2017-09-05 00:51:01,591:INFO: Global step: 100196
+2017-09-05 00:51:01,592:INFO: Evaluating...
+2017-09-05 00:51:42,997:INFO: Average reward: -0.01 +/- 0.95
+2017-09-05 01:08:09,046:INFO: Global step: 120204
+2017-09-05 01:08:09,047:INFO: Evaluating...
+2017-09-05 01:08:52,811:INFO: Average reward: 0.12 +/- 1.13
+2017-09-05 01:25:15,226:INFO: Global step: 140220
+2017-09-05 01:25:15,227:INFO: Evaluating...
+2017-09-05 01:25:52,376:INFO: Average reward: 0.98 +/- 0.71
+2017-09-05 01:40:21,442:INFO: Global step: 160228
+2017-09-05 01:40:21,442:INFO: Evaluating...
+2017-09-05 01:41:02,534:INFO: Average reward: 0.28 +/- 1.25
+2017-09-05 01:56:39,886:INFO: Global step: 180308
+2017-09-05 01:56:39,887:INFO: Evaluating...
+2017-09-05 01:57:12,705:INFO: Average reward: 2.86 +/- 0.61
+2017-09-05 02:13:37,588:INFO: Global step: 200319
+2017-09-05 02:13:37,589:INFO: Evaluating...
+2017-09-05 02:14:14,730:INFO: Average reward: 1.20 +/- 0.71
+2017-09-05 02:30:10,099:INFO: Global step: 220328
+2017-09-05 02:30:10,099:INFO: Evaluating...
+2017-09-05 02:30:52,412:INFO: Average reward: 1.27 +/- 0.77
+2017-09-05 02:46:55,502:INFO: Global step: 240340
+2017-09-05 02:46:55,503:INFO: Evaluating...
+2017-09-05 02:47:39,146:INFO: Average reward: 1.20 +/- 1.05
+2017-09-05 03:03:40,842:INFO: Global step: 260361
+2017-09-05 03:03:40,843:INFO: Evaluating...
+2017-09-05 03:04:13,899:INFO: Average reward: 2.89 +/- 0.48
+2017-09-05 03:20:05,711:INFO: Global step: 280401
+2017-09-05 03:20:05,712:INFO: Evaluating...
+2017-09-05 03:20:37,845:INFO: Average reward: 3.67 +/- 0.38
+2017-09-05 03:36:37,579:INFO: Global step: 300409
+2017-09-05 03:36:37,579:INFO: Evaluating...
+2017-09-05 03:37:08,685:INFO: Average reward: 4.06 +/- 0.39
+2017-09-05 03:53:13,078:INFO: Global step: 320414
+2017-09-05 03:53:13,079:INFO: Evaluating...
+2017-09-05 03:53:46,140:INFO: Average reward: 3.27 +/- 0.43
+2017-09-05 04:09:38,325:INFO: Global step: 340431
+2017-09-05 04:09:38,326:INFO: Evaluating...
+2017-09-05 04:10:18,207:INFO: Average reward: 2.60 +/- 0.55
+2017-09-05 04:25:47,829:INFO: Global step: 360465
+2017-09-05 04:25:47,829:INFO: Evaluating...
+2017-09-05 04:26:29,933:INFO: Average reward: 1.96 +/- 0.69
+2017-09-05 04:41:47,336:INFO: Global step: 380474
+2017-09-05 04:41:47,336:INFO: Evaluating...
+2017-09-05 04:42:22,163:INFO: Average reward: 3.11 +/- 0.44
+2017-09-05 04:57:52,001:INFO: Global step: 400490
+2017-09-05 04:57:52,002:INFO: Evaluating...
+2017-09-05 04:58:25,485:INFO: Average reward: 3.67 +/- 0.62
+2017-09-05 05:13:55,805:INFO: Global step: 420498
+2017-09-05 05:13:55,805:INFO: Evaluating...
+2017-09-05 05:14:35,078:INFO: Average reward: 2.34 +/- 0.48
+2017-09-05 05:29:47,316:INFO: Global step: 440499
+2017-09-05 05:29:47,317:INFO: Evaluating...
+2017-09-05 05:30:24,108:INFO: Average reward: 2.88 +/- 0.49
+2017-09-05 05:45:44,168:INFO: Global step: 460509
+2017-09-05 05:45:44,168:INFO: Evaluating...
+2017-09-05 05:46:19,490:INFO: Average reward: 3.61 +/- 0.37
+2017-09-05 06:01:36,772:INFO: Global step: 480537
+2017-09-05 06:01:36,772:INFO: Evaluating...
+2017-09-05 06:02:13,601:INFO: Average reward: 2.87 +/- 0.45
+2017-09-05 06:17:35,585:INFO: Global step: 500543
+2017-09-05 06:17:35,587:INFO: Evaluating...
+2017-09-05 06:18:06,625:INFO: Average reward: 3.92 +/- 0.44
+2017-09-05 06:33:20,421:INFO: Global step: 520558
+2017-09-05 06:33:20,421:INFO: Evaluating...
+2017-09-05 06:33:56,054:INFO: Average reward: 3.39 +/- 0.43
+2017-09-05 06:49:17,009:INFO: Global step: 540581
+2017-09-05 06:49:17,009:INFO: Evaluating...
+2017-09-05 06:49:48,327:INFO: Average reward: 4.15 +/- 0.44
+2017-09-05 07:04:54,253:INFO: Global step: 560590
+2017-09-05 07:04:54,254:INFO: Evaluating...
+2017-09-05 07:05:29,199:INFO: Average reward: 3.79 +/- 0.45
+2017-09-05 07:20:35,034:INFO: Global step: 580592
+2017-09-05 07:20:35,035:INFO: Evaluating...
+2017-09-05 07:21:12,822:INFO: Average reward: 2.90 +/- 0.49
+2017-09-05 07:36:02,919:INFO: Global step: 600593
+2017-09-05 07:36:02,919:INFO: Evaluating...
+2017-09-05 07:36:36,750:INFO: Average reward: 3.98 +/- 0.42
+2017-09-05 07:51:19,832:INFO: Global step: 620599
+2017-09-05 07:51:19,836:INFO: Evaluating...
+2017-09-05 07:52:00,340:INFO: Average reward: 2.79 +/- 0.68
+2017-09-05 08:06:57,247:INFO: Global step: 640607
+2017-09-05 08:06:57,249:INFO: Evaluating...
+2017-09-05 08:07:32,870:INFO: Average reward: 3.10 +/- 0.52
+2017-09-05 08:22:32,508:INFO: Global step: 660615
+2017-09-05 08:22:32,510:INFO: Evaluating...
+2017-09-05 08:23:04,062:INFO: Average reward: 4.51 +/- 0.34
+2017-09-05 08:37:35,332:INFO: Global step: 680616
+2017-09-05 08:37:35,333:INFO: Evaluating...
+2017-09-05 08:38:08,593:INFO: Average reward: 4.32 +/- 0.36
+2017-09-05 08:51:32,993:INFO: Global step: 700645
+2017-09-05 08:51:32,994:INFO: Evaluating...
+2017-09-05 08:52:04,622:INFO: Average reward: 4.03 +/- 0.32
+2017-09-05 09:05:20,066:INFO: Global step: 720663
+2017-09-05 09:05:20,067:INFO: Evaluating...
+2017-09-05 09:05:53,368:INFO: Average reward: 4.22 +/- 0.40
+2017-09-05 10:07:54,756:INFO: Global step: 740664
+2017-09-05 10:07:54,757:INFO: Evaluating...
+2017-09-05 10:08:26,874:INFO: Average reward: 4.17 +/- 0.36
+2017-09-05 10:22:01,839:INFO: Global step: 760672
+2017-09-05 10:22:01,840:INFO: Evaluating...
+2017-09-05 10:22:32,057:INFO: Average reward: 3.96 +/- 0.40
+2017-09-05 10:35:39,990:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 10:35:44,766:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 10:35:45,029:INFO: Evaluating...
+2017-09-05 10:44:31,932:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 10:44:36,580:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 10:44:36,792:INFO: Evaluating...
+2017-09-05 10:58:44,161:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 10:58:49,045:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 10:58:49,275:INFO: Evaluating...
+2017-09-05 10:59:25,744:INFO: Average reward: 3.34 +/- 0.62
+2017-09-05 11:00:04,734:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:00:09,632:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:00:09,870:INFO: Evaluating...
+2017-09-05 11:01:42,379:INFO: Average reward: -58.66 +/- 0.98
+2017-09-05 11:04:54,652:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:04:59,375:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:04:59,587:INFO: Evaluating...
+2017-09-05 11:06:09,294:INFO: Average reward: -5.11 +/- 1.34
+2017-09-05 11:07:02,077:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:07:06,709:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:07:06,919:INFO: Evaluating...
+2017-09-05 11:08:07,771:INFO: Average reward: -3.26 +/- 1.20
+2017-09-05 11:08:07,772:INFO: Success Rate: 0.85
+2017-09-05 11:31:24,045:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:31:28,980:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:31:29,201:INFO: Evaluating...
+2017-09-05 11:38:12,086:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:38:17,444:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:38:17,668:INFO: Evaluating...
+2017-09-05 11:39:05,309:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:39:10,163:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:39:10,382:INFO: Evaluating...
+2017-09-05 11:39:57,429:INFO: Average reward: -1.48 +/- 0.67
+2017-09-05 11:39:57,429:INFO: Success Rate: 1.00
+2017-09-05 11:44:39,380:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:44:44,254:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:44:44,484:INFO: Evaluating...
+2017-09-05 11:45:35,181:INFO: Average reward: -2.50 +/- 0.62
+2017-09-05 11:45:35,181:INFO: Success Rate: 0.27
+2017-09-05 11:46:08,598:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:46:13,525:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:46:13,764:INFO: Evaluating...
+2017-09-05 11:46:59,714:INFO: Average reward: -1.03 +/- 0.67
+2017-09-05 11:46:59,715:INFO: Success Rate: 0.38
+2017-09-05 11:47:54,862:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:47:59,698:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:47:59,925:INFO: Evaluating...
+2017-09-05 11:49:01,028:INFO: Average reward: -2.50 +/- 1.23
+2017-09-05 11:49:01,028:INFO: Success Rate: 0.73
+2017-09-05 11:49:37,362:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:49:42,211:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:49:42,442:INFO: Evaluating...
+2017-09-05 11:50:47,757:INFO: Average reward: -3.89 +/- 1.42
+2017-09-05 11:50:47,757:INFO: Success Rate: 0.69
+2017-09-05 11:56:25,330:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 11:56:30,285:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 11:56:30,508:INFO: Evaluating...
+2017-09-05 11:57:02,900:INFO: Average reward: 3.99 +/- 0.35
+2017-09-05 11:57:02,900:INFO: Success Rate: 1.00
+2017-09-05 12:17:03,623:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 12:17:08,547:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 12:17:08,771:INFO: Evaluating...
+2017-09-05 12:17:46,242:INFO: Average reward: 3.00 +/- 0.52
+2017-09-05 12:17:46,244:INFO: Success Rate: 0.97
+2017-09-05 12:19:23,142:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 12:19:27,824:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 12:19:28,043:INFO: Evaluating...
+2017-09-05 13:01:14,084:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 13:01:18,898:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 13:01:19,158:INFO: Evaluating...
+2017-09-05 13:17:12,827:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 13:17:17,615:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 13:17:17,828:INFO: Evaluating...
+2017-09-05 13:25:03,129:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 13:25:08,059:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 13:25:08,288:INFO: Evaluating...
+2017-09-05 14:00:02,922:INFO: Average reward: -2.29 +/- 1.20
+2017-09-05 14:00:02,922:INFO: Success Rate: 0.75
+2017-09-05 16:36:25,009:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 16:36:30,808:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 16:36:31,076:INFO: Evaluating...
+2017-09-05 16:54:23,655:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-05 16:54:28,490:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-05 16:54:28,721:INFO: Evaluating...
+2017-09-06 10:12:44,112:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 10:12:48,747:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-06 10:12:48,992:INFO: Evaluating...
+2017-09-06 10:39:01,835:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 10:39:06,620:INFO: Restoring parameters from results/two_agent_0/model.weights/model-720000
+2017-09-06 10:39:06,853:INFO: Evaluating...
+2017-09-06 12:00:51,857:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 12:15:47,019:INFO: Global step: 20025
+2017-09-06 12:15:47,020:INFO: Evaluating...
+2017-09-06 12:16:54,287:INFO: Average reward: -4.09 +/- 1.92
+2017-09-06 12:16:54,288:INFO: Success Rate: 0.54
+2017-09-06 12:31:24,463:INFO: Global step: 40031
+2017-09-06 12:31:24,465:INFO: Evaluating...
+2017-09-06 12:32:23,353:INFO: Average reward: -2.19 +/- 1.02
+2017-09-06 12:32:23,354:INFO: Success Rate: 0.57
+2017-09-06 12:47:42,025:INFO: Global step: 60045
+2017-09-06 12:47:42,026:INFO: Evaluating...
+2017-09-06 12:48:53,846:INFO: Average reward: -1.85 +/- 0.95
+2017-09-06 12:48:53,846:INFO: Success Rate: 0.57
+2017-09-06 13:06:45,886:INFO: Global step: 80053
+2017-09-06 13:06:45,888:INFO: Evaluating...
+2017-09-06 13:07:42,588:INFO: Average reward: -2.42 +/- 0.93
+2017-09-06 13:07:42,588:INFO: Success Rate: 0.47
+2017-09-06 13:19:06,041:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 13:20:35,319:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 13:23:29,182:INFO: Global step: 100061
+2017-09-06 13:23:29,183:INFO: Evaluating...
+2017-09-06 13:24:30,074:INFO: Average reward: -1.03 +/- 1.18
+2017-09-06 13:24:30,074:INFO: Success Rate: 0.59
+2017-09-06 13:35:50,859:INFO: Global step: 20016
+2017-09-06 13:35:50,860:INFO: Evaluating...
+2017-09-06 13:36:49,318:INFO: Average reward: -1.01 +/- 0.75
+2017-09-06 13:36:49,320:INFO: Success Rate: 0.43
+2017-09-06 13:42:02,601:INFO: Global step: 120074
+2017-09-06 13:42:02,603:INFO: Evaluating...
+2017-09-06 13:42:49,810:INFO: Average reward: 0.49 +/- 0.65
+2017-09-06 13:42:49,811:INFO: Success Rate: 0.68
+2017-09-06 13:53:08,926:INFO: Global step: 40026
+2017-09-06 13:53:08,928:INFO: Evaluating...
+2017-09-06 13:54:15,799:INFO: Average reward: -1.56 +/- 1.02
+2017-09-06 13:54:15,800:INFO: Success Rate: 0.46
+2017-09-06 14:01:40,910:INFO: Global step: 140080
+2017-09-06 14:01:40,913:INFO: Evaluating...
+2017-09-06 14:02:44,335:INFO: Average reward: -1.46 +/- 1.08
+2017-09-06 14:02:44,337:INFO: Success Rate: 0.58
+2017-09-06 14:10:13,099:INFO: Global step: 60064
+2017-09-06 14:10:13,100:INFO: Evaluating...
+2017-09-06 14:11:13,808:INFO: Average reward: -0.59 +/- 0.91
+2017-09-06 14:11:13,809:INFO: Success Rate: 0.49
+2017-09-06 14:21:20,846:INFO: Global step: 160087
+2017-09-06 14:21:20,848:INFO: Evaluating...
+2017-09-06 14:22:25,760:INFO: Average reward: -1.85 +/- 1.09
+2017-09-06 14:22:25,763:INFO: Success Rate: 0.63
+2017-09-06 14:27:04,678:INFO: Global step: 80135
+2017-09-06 14:27:04,679:INFO: Evaluating...
+2017-09-06 14:27:53,450:INFO: Average reward: -0.45 +/- 0.67
+2017-09-06 14:27:53,452:INFO: Success Rate: 0.43
+2017-09-06 14:39:44,867:INFO: Global step: 180093
+2017-09-06 14:39:44,868:INFO: Evaluating...
+2017-09-06 14:40:39,230:INFO: Average reward: -1.10 +/- 1.19
+2017-09-06 14:40:39,231:INFO: Success Rate: 0.76
+2017-09-06 14:42:48,341:INFO: Global step: 100214
+2017-09-06 14:42:48,342:INFO: Evaluating...
+2017-09-06 14:43:46,012:INFO: Average reward: -2.11 +/- 0.96
+2017-09-06 14:43:46,013:INFO: Success Rate: 0.41
+2017-09-06 14:57:43,265:INFO: Global step: 200104
+2017-09-06 14:57:43,266:INFO: Evaluating...
+2017-09-06 14:58:38,487:INFO: Average reward: -1.05 +/- 1.03
+2017-09-06 14:58:38,489:INFO: Success Rate: 0.65
+2017-09-06 14:59:00,221:INFO: Global step: 120227
+2017-09-06 14:59:00,223:INFO: Evaluating...
+2017-09-06 14:59:49,639:INFO: Average reward: -0.08 +/- 0.71
+2017-09-06 14:59:49,639:INFO: Success Rate: 0.49
+2017-09-06 15:14:28,318:INFO: Global step: 140229
+2017-09-06 15:14:28,320:INFO: Evaluating...
+2017-09-06 15:15:31,692:INFO: Average reward: -2.53 +/- 1.01
+2017-09-06 15:15:31,693:INFO: Success Rate: 0.37
+2017-09-06 15:15:45,906:INFO: Global step: 220108
+2017-09-06 15:15:45,907:INFO: Evaluating...
+2017-09-06 15:16:39,923:INFO: Average reward: -1.47 +/- 1.10
+2017-09-06 15:16:39,924:INFO: Success Rate: 0.63
+2017-09-06 15:30:45,651:INFO: Global step: 160231
+2017-09-06 15:30:45,651:INFO: Evaluating...
+2017-09-06 15:31:42,022:INFO: Average reward: -1.99 +/- 0.82
+2017-09-06 15:31:42,022:INFO: Success Rate: 0.36
+2017-09-06 15:33:46,342:INFO: Global step: 240130
+2017-09-06 15:33:46,342:INFO: Evaluating...
+2017-09-06 15:34:37,792:INFO: Average reward: -1.23 +/- 0.92
+2017-09-06 15:34:37,792:INFO: Success Rate: 0.66
+2017-09-06 15:47:20,270:INFO: Global step: 180243
+2017-09-06 15:47:20,271:INFO: Evaluating...
+2017-09-06 15:48:07,078:INFO: Average reward: -0.18 +/- 0.72
+2017-09-06 15:48:07,078:INFO: Success Rate: 0.45
+2017-09-06 15:52:02,350:INFO: Global step: 260136
+2017-09-06 15:52:02,351:INFO: Evaluating...
+2017-09-06 15:53:00,957:INFO: Average reward: -2.41 +/- 1.58
+2017-09-06 15:53:00,958:INFO: Success Rate: 0.64
+2017-09-06 16:04:39,702:INFO: Global step: 200303
+2017-09-06 16:04:39,707:INFO: Evaluating...
+2017-09-06 16:05:38,362:INFO: Average reward: -1.47 +/- 1.03
+2017-09-06 16:05:38,362:INFO: Success Rate: 0.46
+2017-09-06 16:12:10,276:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 16:25:10,048:INFO: Global step: 20004
+2017-09-06 16:25:10,049:INFO: Evaluating...
+2017-09-06 16:25:54,031:INFO: Average reward: -2.04 +/- 0.67
+2017-09-06 16:25:54,032:INFO: Success Rate: 0.29
+2017-09-06 16:56:03,850:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 16:57:21,392:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 16:58:22,230:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 17:16:58,775:INFO: Global step: 20045
+2017-09-06 17:16:58,775:INFO: Evaluating...
+2017-09-06 17:17:55,926:INFO: Global step: 20060
+2017-09-06 17:17:55,927:INFO: Evaluating...
+2017-09-06 17:18:00,724:INFO: Average reward: -2.80 +/- 0.73
+2017-09-06 17:18:00,726:INFO: Success Rate: 0.28
+2017-09-06 17:18:43,013:INFO: Average reward: -0.06 +/- 0.69
+2017-09-06 17:18:43,013:INFO: Success Rate: 0.71
+2017-09-06 17:36:59,657:INFO: Global step: 40096
+2017-09-06 17:36:59,659:INFO: Evaluating...
+2017-09-06 17:38:13,143:INFO: Average reward: -2.93 +/- 0.81
+2017-09-06 17:38:13,145:INFO: Success Rate: 0.31
+2017-09-06 17:39:40,914:INFO: Global step: 40166
+2017-09-06 17:39:40,915:INFO: Evaluating...
+2017-09-06 17:40:31,109:INFO: Average reward: 0.01 +/- 0.73
+2017-09-06 17:40:31,109:INFO: Success Rate: 0.67
+2017-09-06 17:56:40,826:INFO: Global step: 60125
+2017-09-06 17:56:40,827:INFO: Evaluating...
+2017-09-06 17:57:53,513:INFO: Average reward: -3.61 +/- 0.81
+2017-09-06 17:57:53,515:INFO: Success Rate: 0.27
+2017-09-06 18:01:02,388:INFO: Global step: 60177
+2017-09-06 18:01:02,390:INFO: Evaluating...
+2017-09-06 18:01:35,230:INFO: Average reward: 0.73 +/- 0.74
+2017-09-06 18:01:35,230:INFO: Success Rate: 0.65
+2017-09-06 18:19:06,237:INFO: Global step: 80182
+2017-09-06 18:19:06,238:INFO: Evaluating...
+2017-09-06 18:19:49,827:INFO: Average reward: 0.14 +/- 0.88
+2017-09-06 18:19:49,828:INFO: Success Rate: 0.77
+2017-09-06 18:21:21,499:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:22:50,747:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:36:35,284:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:36:57,712:INFO: Global step: 100218
+2017-09-06 18:36:57,713:INFO: Evaluating...
+2017-09-06 18:37:43,607:INFO: Average reward: 0.64 +/- 0.96
+2017-09-06 18:37:43,607:INFO: Success Rate: 0.87
+2017-09-06 18:38:46,075:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:40:34,080:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:47:13,910:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:48:58,785:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:51:32,664:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:53:16,655:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 18:56:05,840:INFO: Global step: 120236
+2017-09-06 18:56:05,841:INFO: Evaluating...
+2017-09-06 18:56:46,946:INFO: Average reward: 1.24 +/- 0.55
+2017-09-06 18:56:46,947:INFO: Success Rate: 0.90
+2017-09-06 19:16:44,579:INFO: Global step: 140242
+2017-09-06 19:16:44,579:INFO: Evaluating...
+2017-09-06 19:17:27,905:INFO: Average reward: 1.59 +/- 0.71
+2017-09-06 19:17:27,905:INFO: Success Rate: 0.83
+2017-09-06 19:25:18,597:INFO: Global step: 20002
+2017-09-06 19:25:18,598:INFO: Evaluating...
+2017-09-06 19:26:14,633:INFO: Average reward: -1.47 +/- 1.05
+2017-09-06 19:26:14,633:INFO: Success Rate: 0.46
+2017-09-06 19:36:41,266:INFO: Global step: 160249
+2017-09-06 19:36:41,266:INFO: Evaluating...
+2017-09-06 20:15:16,290:INFO: Average reward: 1.94 +/- 0.63
+2017-09-06 20:15:16,290:INFO: Success Rate: 0.95
+2017-09-06 20:33:47,762:INFO: Global step: 180257
+2017-09-06 20:33:47,762:INFO: Evaluating...
+2017-09-06 20:34:24,944:INFO: Average reward: 2.17 +/- 0.71
+2017-09-06 20:34:24,944:INFO: Success Rate: 0.92
+2017-09-06 20:35:54,844:INFO: Global step: 40028
+2017-09-06 20:35:54,846:INFO: Evaluating...
+2017-09-06 20:37:16,064:INFO: Average reward: -2.41 +/- 1.71
+2017-09-06 20:37:16,065:INFO: Success Rate: 0.45
+2017-09-06 20:47:58,808:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 21:03:50,801:INFO: Global step: 20088
+2017-09-06 21:03:50,801:INFO: Evaluating...
+2017-09-06 21:04:10,734:INFO: Global step: 60060
+2017-09-06 21:04:10,735:INFO: Evaluating...
+2017-09-06 21:04:49,397:INFO: Average reward: -2.93 +/- 1.08
+2017-09-06 21:04:49,398:INFO: Success Rate: 0.38
+2017-09-06 21:04:57,217:INFO: Average reward: -1.55 +/- 0.87
+2017-09-06 21:04:57,218:INFO: Success Rate: 0.39
+2017-09-06 21:20:13,226:INFO: Global step: 40106
+2017-09-06 21:20:13,228:INFO: Evaluating...
+2017-09-06 21:21:06,767:INFO: Average reward: -1.43 +/- 0.85
+2017-09-06 21:21:06,767:INFO: Success Rate: 0.45
+2017-09-06 21:30:16,036:INFO: Global step: 80091
+2017-09-06 21:30:16,037:INFO: Evaluating...
+2017-09-06 21:30:58,132:INFO: Average reward: -0.13 +/- 0.87
+2017-09-06 21:30:58,132:INFO: Success Rate: 0.50
+2017-09-06 21:37:01,215:INFO: Global step: 60156
+2017-09-06 21:37:01,216:INFO: Evaluating...
+2017-09-06 21:37:58,735:INFO: Average reward: -1.98 +/- 1.01
+2017-09-06 21:37:58,735:INFO: Success Rate: 0.44
+2017-09-06 21:44:45,061:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 21:46:53,663:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 21:53:45,465:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 22:00:09,103:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 22:05:49,502:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 22:08:04,718:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 22:19:18,029:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 22:23:43,444:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:06:22,197:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:06:35,926:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:06:44,013:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:06:48,142:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:06:53,714:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:06:59,027:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:07:01,907:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:07:23,036:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:07:28,204:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:07:45,368:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:07:53,945:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:08:06,329:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:08:09,073:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:12:09,888:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:12:50,314:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:12:56,753:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:13:03,561:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:17:58,085:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:20:41,669:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:21:23,828:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:21:37,909:WARNING: VARIABLES collection name is deprecated, please use GLOBAL_VARIABLES instead; VARIABLES will be removed after 2017-03-02.
+2017-09-06 23:27:13,417:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:27:13,417:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:27:13,651:INFO: Evaluating...
+2017-09-06 23:27:13,651:INFO: Evaluating...
+2017-09-06 23:30:08,665:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:30:08,665:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:30:08,895:INFO: Evaluating...
+2017-09-06 23:30:08,895:INFO: Evaluating...
+2017-09-06 23:32:24,923:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:36:51,639:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:40:14,953:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:42:14,383:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:42:14,383:INFO: Restoring parameters from results/reactive_agent_1_6_6/model.weights/model-1800000
+2017-09-06 23:42:14,613:INFO: Evaluating...
+2017-09-06 23:42:14,613:INFO: Evaluating...

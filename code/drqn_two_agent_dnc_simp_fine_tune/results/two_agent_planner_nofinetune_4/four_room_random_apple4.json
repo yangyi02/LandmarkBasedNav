@@ -1,0 +1,39 @@
+{
+    "dimensions" : {
+        "height" : 11,
+        "width" : 11
+    },
+    
+    "items" : {
+        "goal" : {
+            "number" : 8,
+            "instances" : {
+            }
+        },
+
+        "block" : {
+            "number" : 10,
+            "instances" : {
+            }
+        },
+
+        "agent" : {
+            "number" : 1,
+            "instances" : {
+                "robot_0" : []
+            }
+        },
+        
+        "dummy" : {
+            "number" : 0,
+            "instances" : {
+            }
+        },
+
+        "river" : {
+            "number" : 0,
+            "instances" : {
+            }
+        }
+    }
+}

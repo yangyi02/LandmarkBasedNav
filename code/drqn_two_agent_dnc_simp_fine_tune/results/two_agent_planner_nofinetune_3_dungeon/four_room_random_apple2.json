@@ -1,0 +1,29 @@
+{
+    "dimensions_min" : {
+        "height" : 20,
+        "width" : 20
+    },
+     "dimensions_max" : {
+        "height" : 20,
+        "width" : 20
+    },
+    "room_meta" : {
+        "max_rooms": 5,
+        "min_room_xy": 3,
+        "max_room_xy": 5
+    },
+    "items" : {
+        "goal" : {
+            "number" : 8,
+            "instances" : {
+            }
+        },
+
+        "agent" : {
+            "number" : 1,
+            "instances" : {
+                "robot_0" : []
+            }
+        }
+    }
+}
